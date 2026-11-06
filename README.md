@@ -1,3 +1,7 @@
+# Antarmuka App TicTacToe :
+<img width="610" height="1319" alt="WhatsApp Image 2026-11-06 at 16 33 51" src="https://github.com/user-attachments/assets/5301fcf3-0d49-47f5-839b-6e5cb54b91aa" />
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
