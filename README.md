@@ -70,14 +70,3 @@ TugasTicTacToe/
 ├── tsconfig.json
 └── README.md
 ```
-
-## Developer
-
-**Yovi Nurwijaya Kusumah**
-
-Universitas Langlangbuana  
-Fakultas Teknik – Teknik Informatika
-
----
-
-*Dibuat untuk memenuhi tugas praktikum pengembangan aplikasi mobile.*
