@@ -1,60 +1,81 @@
-# Antarmuka App TicTacToe :
-<img width="610" height="1319" alt="WhatsApp Image 2026-11-06 at 16 33 51" src="https://github.com/user-attachments/assets/5301fcf3-0d49-47f5-839b-6e5cb54b91aa" />
+# TicTacToe App
 
+Aplikasi **TicTacToe** merupakan aplikasi permainan sederhana yang dikembangkan menggunakan React Native dan Expo. Aplikasi ini dibuat sebagai bagian dari tugas praktikum untuk menerapkan pengembangan aplikasi mobile menggunakan teknologi React Native.
 
-# Welcome to your Expo app 👋
+## Tampilan Aplikasi
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Tampilan Aplikasi TicTacToe](https://github.com/user-attachments/assets/5301fcf3-0d49-47f5-839b-6e5cb54b91aa)
 
-## Get started
+## Teknologi yang Digunakan
 
-1. Install dependencies
+- **React Native** – Framework untuk pengembangan aplikasi mobile.
+- **Expo** – Platform untuk mempermudah proses pengembangan dan menjalankan aplikasi.
+- **TypeScript** – Bahasa pemrograman untuk pengembangan aplikasi.
+- **Expo Router** – Sistem navigasi berbasis file.
+
+## Persyaratan
+
+Sebelum menjalankan aplikasi, pastikan perangkat sudah memiliki:
+
+- Node.js
+- NPM (Node Package Manager)
+- Expo Go (untuk menjalankan aplikasi di smartphone)
+
+## Instalasi dan Menjalankan Aplikasi
+
+1. Clone repository
+
+   ```bash
+   git clone https://github.com/ynrwy/TugasTicTacToe.git
+   ```
+
+2. Masuk ke direktori project
+
+   ```bash
+   cd TugasTicTacToe
+   ```
+
+3. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+4. Jalankan aplikasi
 
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+5. Buka aplikasi melalui salah satu pilihan berikut:
+   - Expo Go pada smartphone.
+   - Android Emulator.
+   - iOS Simulator.
+   - Web Browser.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Struktur Project
 
-You can start developing by editing the files inside the **src/app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```text
+TugasTicTacToe/
+├── assets/
+├── scripts/
+├── src/
+│   └── app/
+├── .gitignore
+├── app.json
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+└── README.md
 ```
 
-This command will move the starter code to the **example** directory and create a blank **src/app** directory where you can start developing.
+## Developer
 
-### Other setup steps
+**Yovi Nurwijaya Kusumah**
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+Universitas Langlangbuana  
+Fakultas Teknik – Teknik Informatika
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+*Dibuat untuk memenuhi tugas praktikum pengembangan aplikasi mobile.*
