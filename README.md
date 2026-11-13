@@ -4,7 +4,9 @@ Aplikasi **TicTacToe** merupakan aplikasi permainan sederhana yang dikembangkan 
 
 ## Tampilan Aplikasi
 
-![Tampilan Aplikasi TicTacToe](https://github.com/user-attachments/assets/5301fcf3-0d49-47f5-839b-6e5cb54b91aa)
+<div align="center">
+  <img width="300" alt="Antarmuka App TicTacToe" src="https://github.com/user-attachments/assets/5301fcf3-0d49-47f5-839b-6e5cb54b91aa" />
+</div>
 
 ## Teknologi yang Digunakan
 
